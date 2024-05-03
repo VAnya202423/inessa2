@@ -1,0 +1,64 @@
+.div1 {
+	color: white;
+	background-image: url("inessa3.jpeg");
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	padding: 200px 100px
+}
+
+h1.div1 {
+	font-size: 50px;
+}
+
+p.div1 {
+	font-size: 30px;
+}
+
+a:link {
+	font-size: 48px;
+	color: White
+}
+
+a:visited {
+	font-size: 48px;
+	color: DarkGrey
+}
+
+a:hover {
+	font-size: 48px;
+	color: lightskyblue
+}
+
+.div2 {
+	display: inline-block;
+}
+p.div2{
+	text-align :right;
+}
+img {
+	border: 1px solid black;
+	border-radius: 25px;
+	max-width: 320px;
+	max-height: 256px;
+}
+
+ul {
+	background-color: #F7F9FC;
+	border-radius: 8px;
+	margin-top: 25px;
+	padding: 20px 55px;
+}
+
+li {
+	margin-bottom: 8px;
+}
+
+.div3 {
+	display: inline-block;
+	margin-left: 20px;
+}
+.div4 {
+	float: right
+	
+}
